@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>monappli-domaine</name>
+=======
+	<name>monappli-dao</name>
+>>>>>>> branch 'master' of https://github.com/COULIBALYAHMED/formationObjisOctobre2016
 	<comment>NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
 	<projects>
 	</projects>

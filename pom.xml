@@ -33,4 +33,8 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+  <scm>
+  	<connection>scm:git:file://C:/Users/formation/TPS/TP1/monappli</connection>                
+  	<developerConnection>scm:git:file://C:/Users/formation/TPS/TP1/monappli</developerConnection>
+  </scm>
 </project>
